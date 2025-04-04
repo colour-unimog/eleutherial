@@ -4,7 +4,7 @@ description: >-
   A digital space for earnest, Socratic inquiry across various topics including philosophy, heterodox thinking, and creative pursuits.
 baseurl: ""
 url: "https://eleutherial.com"
-theme: none
+theme: minima
 permalink: /:title/
 
 # Build settings
