@@ -2,7 +2,7 @@
 layout: default
 title: A brief Introduction
 date: 2025-04-05
-tags: epistemology
+tags: phil
 ---
 
 I'd like to start with a brief introduction of what i'm trying to do here, and where I am coming from. I have been taking various kinds of notes in a Zettelkasten note taking system for over 8 years now, spanning a wide range of my interests.
