@@ -1,0 +1,30 @@
+title: Eleutherial
+email: ""
+description: >-
+  A digital space for earnest, Socratic inquiry across various topics including philosophy, heterodox thinking, and creative pursuits.
+baseurl: ""
+url: "https://eleutherial.com"
+theme: none
+permalink: /:title/
+
+# Build settings
+github: [metadata]
+
+# Collections
+collections:
+  posts:
+    output: true
+    permalink: /:title/
+
+# Default values
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+
+# Markdown processing
+markdown: kramdown
+yaml_front_matter: required
