@@ -6,6 +6,7 @@ baseurl: ""
 url: "https://eleutherial.com"
 theme: minima
 permalink: /:title/
+future: true
 
 # Build settings
 github: [metadata]
