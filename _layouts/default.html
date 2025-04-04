@@ -16,6 +16,12 @@
     <h1><a href="/">{{ site.title }}</a></h1>
 
 
+    <nav>
+        {% for tag in site.tags %}
+            <a href="/tags/{{ tag[0] }}/">{{ tag[0] }}</a> 
+        {% endfor %}
+    </nav>
+
 <nav>
   <strong>Tags:</strong>
   <ul>
