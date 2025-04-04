@@ -9,10 +9,18 @@
         a { color: #0056b3; text-decoration: none; }
         h1, h2 { margin-bottom: 10px; }
         .post { margin-bottom: 30px; }
+        .tags { font-size: 0.9em; color: #555; }
     </style>
 </head>
 <body>
     <h1><a href="/">{{ site.title }}</a></h1>
+    
+    <nav>
+        {% for tag in site.tags %}
+            <a href="/tags/{{ tag[0] }}/">{{ tag[0] }}</a> 
+        {% endfor %}
+    </nav>
+
     <main>{{ content }}</main>
 </body>
 </html>
