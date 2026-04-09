@@ -30,7 +30,7 @@ One day, they say, one day, they say.
 
 **Shadow Queen**
 <br>
-~ <br> 
+ <br> 
 
 The GOLD - crack, mortar, split, atomise -
 turn and scatter above.
