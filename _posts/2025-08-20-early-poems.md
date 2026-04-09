@@ -1,9 +1,12 @@
 ---
 layout: default
-title: Yearn of Plates
+title: Early Poems
 date: 2025-08-20
 tags: poems
 ---
+
+Below are some of my earliest poems, starting around August 2025. They are not in precise order of publication. Peruse and enjoy. 
+
 
 
 <br>
