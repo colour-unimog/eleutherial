@@ -30,7 +30,8 @@ One day, they say, one day, they say.
 
 **Shadow Queen**
 <br>
-~ <br>
+~ <br> 
+
 The GOLD - crack, mortar, split, atomise -
 turn and scatter above.
 
@@ -38,18 +39,21 @@ Up it will rise, knows its path exactly -
 Which is where? 
 Just know that it goes.
 <br>
+
 ~ <br>
 
 The BLACK - a wise, dense, rejecting net -
 that catches every piece.
 Every glint must pull away but the BLACK controls its lease. 
 <br>
+
 ~ <br>
 
 They settle, they wrestle, they wrap and pull. 
 The GOLD is locked, the BLACK is ready. 
 They disappear.
 <br>
+
 ~ <br>
  
 A sailor pulls his oar, sliding through the slip - 
