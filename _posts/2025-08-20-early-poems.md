@@ -694,7 +694,6 @@ could I ever wean?
 
 ** I Loved (a Cloud?)**
 
-
 One time -
 
 I stood tall and loud and said to a crowd
@@ -716,70 +715,23 @@ And the sun turned around and the day dipped down and they all went away and I t
 One time -
 
 
+**TIMING**
 
-
-
-
-
-
-
-**Shadow Queen**
-<br>
-
-The GOLD - crack, mortar, split, atomise -
-turn and scatter above.
-
-Up it will rise, knows its path exactly -
-Which is where? 
-Just know that it goes.
-<br>
-
-~ <br>
-
-The BLACK - a wise, dense, rejecting net -
-that catches every piece.
-Every glint must pull away but the BLACK controls its lease. 
-<br>
-
-~ <br>
-
-They settle, they wrestle, they wrap and pull. 
-The GOLD is locked, the BLACK is ready. 
-They disappear.
-<br>
-
-~ <br>
- 
-A sailor pulls his oar, sliding through the slip - 
-he must ascend to his abode
-before he gets some lip.
-
-Up he looks and pulls and tugs, 
-going on his way.
-And above the sky will guide -
-'twould never make him pay. 
-
-
-
-
-
-
-**Rest Bringer**
-
-Vesta, Oh Vesta, 
-of Sacred Rest.
-
-Bless my home
-from North
-to West.
-
-Let family proudly
-bear our crest
-
-And thrive today in
-pleasant nest. 
-
-
-
+Wait. 
+Fuck
+Wait. 
+Ugh
+Wait. 
+No
+Wait. 
+Slow
+Wait. 
+Please
+Wait.
+Sneeze
+Wait.
+Knees
+Wait.
+Gate
 
 
