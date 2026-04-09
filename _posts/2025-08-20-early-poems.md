@@ -5,8 +5,7 @@ date: 2025-08-20
 tags: poems
 ---
 
-**Below are some of my earliest poems, starting around August 2025. They are not in precise order of publication. Peruse and enjoy. 
-**
+**Below are some of my earliest poems, starting around August 2025. They are not in precise order of publication. Peruse and enjoy.**
 
 
 <br>
