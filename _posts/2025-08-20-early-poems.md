@@ -15,7 +15,7 @@ Below are some of my earliest poems, starting around August 2025. They are not i
 
 **Yearn of Plates**
 <br>
-~ <br>
+ <br>
 The rocks want to elide, but as too far, they sigh. 
 Come closer! They say, by struggle and grey - 
 they stay away.
