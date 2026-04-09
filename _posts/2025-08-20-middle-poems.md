@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Shadow Queen
+title: Middle Poems
 date: 2025-04-05
 tags: poems
 ---
